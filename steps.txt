@@ -1,0 +1,5 @@
+Collecting data from web:
+    dolar quotes on https://dadosabertos.bcb.gov.br/dataset/dolar-americano-usd-todos-os-boletins-diarios
+    "API - Navegador de Dados" > "Explorar" > "Ir para recurso" > "Cotação do Dólar por período"4
+    copy URL to import on PowerBI
+    filter data and edit table
