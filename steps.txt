@@ -3,3 +3,8 @@ Collecting data from web:
     "API - Navegador de Dados" > "Explorar" > "Ir para recurso" > "Cotação do Dólar por período"4
     copy URL to import on PowerBI
     filter data and edit table
+
+Adding Elements:
+    Background image
+    Boxes for data exhibition
+    Line graph: quote over time with editions
