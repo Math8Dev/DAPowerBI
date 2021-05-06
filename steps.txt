@@ -11,3 +11,4 @@ Elements added:
     Data Segmentation: a data filter to change the table and therefore the plotted graph
     Card: display the last quote on the data set, and its data and time
     Line graph: displaying spread in percetage per month over the whole period
+    Card: display the minimum and maximum quotes during the filtered period
