@@ -1,9 +1,18 @@
-# The Project
+# Temporal analysis of the dollar exchange rate
 
-This was developed to show my knowledge in PowerBI.
+## Description
 
-It's a simple project to analyse the DOLAR-REAL currency over some period:
-- It accesses a web database by URL
-- It displays a time-based graph with a tool to filter the period
-- It also shows some cards with information about the maximum, the minimum and the last value on the graph
-- It also contians a graph to exibit the difference between the value for buying and for selling Dolars
+Analysing the DOLAR-REAL exchange rate to understand its 
+- variation,
+- limit range over time,
+- demand for the currency (reflected by the spread)
+
+The project also is a way to practice my skills in PowerBI and Data Presentation (dashboards)
+
+## Tools Used
+PowerBI tools:
+- Background image
+- Boxes
+- Line graph
+- Data Segmentation
+- Card
